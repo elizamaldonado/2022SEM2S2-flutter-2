@@ -200,7 +200,7 @@ class _HomePageState extends State<HomePage> {
             child: Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Text("Calcular",
+                Text("Calcular.",
                     style:
                         TextStyle(fontSize: 30, fontWeight: FontWeight.bold)),
               ],
